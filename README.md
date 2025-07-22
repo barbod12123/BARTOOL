@@ -15,3 +15,7 @@ and will continue to improve in the future.
 Using this program is very easy. Just open
 the program and you will be presented with 3 options: Option 1: Check ip,
 Option 2: Help, and Option 3: Exit the program.
+
+
+<img width="645" height="478" alt="Screenshot_1" src="https://github.com/user-attachments/assets/b03143b1-1530-4ed2-ab0f-d98dda807795" />
+
