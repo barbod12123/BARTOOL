@@ -19,3 +19,7 @@ Option 2: Help, and Option 3: Exit the program.
 
 <img width="645" height="478" alt="Screenshot_1" src="https://github.com/user-attachments/assets/b03143b1-1530-4ed2-ab0f-d98dda807795" />
 
+
+after select option 1 you can enter the IP . 
+<img width="469" height="213" alt="Screenshot_2" src="https://github.com/user-attachments/assets/0cfdd002-ba50-40ae-a631-1b6c5b20783b" />
+
